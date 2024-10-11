@@ -1,0 +1,1001 @@
+SurveyID,Date,CustomerID,Rating,Comments
+1,18-02-2024,153,1,Store is not well-maintained.
+2,01-05-2024,42,3,Limited product variety.
+3,15-03-2024,48,5,Better pricing compared to other stores.
+4,28-02-2024,184,5,Better pricing compared to other stores.
+5,14-02-2024,113,4,Convenient store location.
+6,10-01-2024,151,2,Prices are too high.
+7,06-02-2024,60,4,Better pricing compared to other stores.
+8,08-02-2024,189,1,Long wait times at checkout.
+9,15-03-2024,58,4,Wide variety of products available.
+10,24-01-2024,119,1,Long wait times at checkout.
+11,19-07-2024,151,5,Great customer service and friendly staff.
+12,02-05-2024,150,4,High-quality fresh produce.
+13,23-02-2024,158,1,Unfriendly staff.
+14,25-03-2024,101,4,Great customer service and friendly staff.
+15,09-02-2024,4,3,Unfriendly staff.
+16,19-05-2024,61,4,Wide variety of products available.
+17,05-06-2024,106,2,Unfriendly staff.
+18,07-03-2024,159,1,Prices are too high.
+19,01-04-2024,179,1,Store is not well-maintained.
+20,22-04-2024,19,2,Prices are too high.
+21,12-03-2024,140,5,High-quality fresh produce.
+22,07-04-2024,78,1,Store is not well-maintained.
+23,05-01-2024,155,1,Store is not well-maintained.
+24,18-02-2024,167,5,Great customer service and friendly staff.
+25,27-02-2024,6,5,Great customer service and friendly staff.
+26,07-04-2024,171,2,Long wait times at checkout.
+27,02-06-2024,173,5,Wide variety of products available.
+28,08-03-2024,50,1,Limited product variety.
+29,01-06-2024,3,3,Limited product variety.
+30,04-07-2024,113,4,Better pricing compared to other stores.
+31,01-02-2024,35,2,Prices are too high.
+32,04-04-2024,69,5,Great customer service and friendly staff.
+33,02-03-2024,110,2,Unfriendly staff.
+34,04-01-2024,142,1,Long wait times at checkout.
+35,24-02-2024,82,2,Unfriendly staff.
+36,01-05-2024,22,1,Long wait times at checkout.
+37,05-04-2024,145,2,Store is not well-maintained.
+38,08-04-2024,122,4,Convenient store location.
+39,02-03-2024,180,3,Long wait times at checkout.
+40,03-04-2024,60,4,High-quality fresh produce.
+41,13-06-2024,20,3,Store is not well-maintained.
+42,20-06-2024,186,1,Long wait times at checkout.
+43,16-01-2024,198,1,Store is not well-maintained.
+44,23-06-2024,106,3,Long wait times at checkout.
+45,03-07-2024,70,3,Store is not well-maintained.
+46,29-05-2024,196,1,Limited product variety.
+47,12-01-2024,45,1,Store is not well-maintained.
+48,30-04-2024,115,2,Unfriendly staff.
+49,22-02-2024,190,3,Limited product variety.
+50,17-03-2024,2,3,Long wait times at checkout.
+51,10-07-2024,103,4,Wide variety of products available.
+52,14-06-2024,42,5,Better pricing compared to other stores.
+53,02-06-2024,117,2,Store is not well-maintained.
+54,01-07-2024,168,2,Store is not well-maintained.
+55,27-04-2024,7,5,High-quality fresh produce.
+56,21-01-2024,92,5,Convenient store location.
+57,12-07-2024,84,1,Store is not well-maintained.
+58,08-07-2024,150,4,Better pricing compared to other stores.
+59,22-02-2024,197,5,Better pricing compared to other stores.
+60,30-01-2024,166,4,Better pricing compared to other stores.
+61,16-01-2024,12,1,Unfriendly staff.
+62,23-06-2024,173,4,Convenient store location.
+63,11-05-2024,43,3,Prices are too high.
+64,10-03-2024,179,5,Better pricing compared to other stores.
+65,23-04-2024,73,5,Wide variety of products available.
+66,21-01-2024,95,4,Great customer service and friendly staff.
+67,08-01-2024,188,4,Wide variety of products available.
+68,03-04-2024,169,3,Long wait times at checkout.
+69,25-03-2024,59,2,Store is not well-maintained.
+70,14-01-2024,79,3,Prices are too high.
+71,23-05-2024,50,1,Unfriendly staff.
+72,29-01-2024,95,5,Convenient store location.
+73,08-01-2024,171,5,Great customer service and friendly staff.
+74,10-07-2024,129,3,Unfriendly staff.
+75,26-02-2024,118,5,Convenient store location.
+76,20-04-2024,45,3,Long wait times at checkout.
+77,28-06-2024,108,2,Limited product variety.
+78,23-02-2024,9,1,Long wait times at checkout.
+79,13-05-2024,78,3,Store is not well-maintained.
+80,17-04-2024,195,3,Long wait times at checkout.
+81,12-03-2024,30,5,Great customer service and friendly staff.
+82,16-06-2024,165,2,Prices are too high.
+83,14-05-2024,13,1,Unfriendly staff.
+84,22-04-2024,12,1,Unfriendly staff.
+85,26-01-2024,84,1,Store is not well-maintained.
+86,18-06-2024,141,4,Wide variety of products available.
+87,21-03-2024,75,3,Long wait times at checkout.
+88,10-03-2024,136,4,High-quality fresh produce.
+89,07-07-2024,161,1,Unfriendly staff.
+90,17-06-2024,39,3,Unfriendly staff.
+91,31-03-2024,6,2,Prices are too high.
+92,03-05-2024,85,2,Long wait times at checkout.
+93,12-03-2024,119,2,Unfriendly staff.
+94,26-03-2024,80,1,Store is not well-maintained.
+95,10-02-2024,91,1,Long wait times at checkout.
+96,06-03-2024,193,5,Better pricing compared to other stores.
+97,17-07-2024,126,3,Limited product variety.
+98,15-03-2024,23,5,Convenient store location.
+99,28-05-2024,6,5,Better pricing compared to other stores.
+100,15-03-2024,4,2,Prices are too high.
+101,05-03-2024,85,1,Limited product variety.
+102,27-06-2024,36,5,High-quality fresh produce.
+103,14-06-2024,17,5,High-quality fresh produce.
+104,19-07-2024,48,2,Limited product variety.
+105,09-01-2024,168,4,Convenient store location.
+106,04-07-2024,39,5,Great customer service and friendly staff.
+107,16-01-2024,57,5,Better pricing compared to other stores.
+108,16-04-2024,95,5,Convenient store location.
+109,11-03-2024,199,2,Store is not well-maintained.
+110,31-03-2024,142,3,Store is not well-maintained.
+111,16-05-2024,165,3,Store is not well-maintained.
+112,26-06-2024,125,2,Long wait times at checkout.
+113,30-03-2024,113,3,Long wait times at checkout.
+114,31-01-2024,131,5,High-quality fresh produce.
+115,21-07-2024,89,4,Wide variety of products available.
+116,22-05-2024,169,3,Store is not well-maintained.
+117,01-04-2024,196,4,High-quality fresh produce.
+118,28-01-2024,158,3,Long wait times at checkout.
+119,01-02-2024,118,3,Store is not well-maintained.
+120,14-06-2024,152,1,Prices are too high.
+121,13-03-2024,130,3,Long wait times at checkout.
+122,01-02-2024,12,4,High-quality fresh produce.
+123,15-03-2024,183,1,Unfriendly staff.
+124,03-05-2024,29,2,Limited product variety.
+125,06-04-2024,181,3,Prices are too high.
+126,01-05-2024,150,5,Wide variety of products available.
+127,30-06-2024,174,4,Wide variety of products available.
+128,23-01-2024,22,3,Store is not well-maintained.
+129,14-05-2024,78,5,Convenient store location.
+130,03-01-2024,60,3,Unfriendly staff.
+131,01-07-2024,19,3,Long wait times at checkout.
+132,02-01-2024,177,2,Long wait times at checkout.
+133,11-07-2024,89,3,Prices are too high.
+134,05-07-2024,2,4,Great customer service and friendly staff.
+135,25-05-2024,77,4,Better pricing compared to other stores.
+136,03-01-2024,36,1,Store is not well-maintained.
+137,25-04-2024,12,3,Long wait times at checkout.
+138,19-04-2024,25,1,Long wait times at checkout.
+139,04-06-2024,167,5,Great customer service and friendly staff.
+140,17-03-2024,12,5,Great customer service and friendly staff.
+141,14-05-2024,157,2,Unfriendly staff.
+142,26-06-2024,129,2,Store is not well-maintained.
+143,26-05-2024,22,4,Great customer service and friendly staff.
+144,14-07-2024,197,3,Long wait times at checkout.
+145,10-06-2024,182,3,Prices are too high.
+146,10-06-2024,194,1,Prices are too high.
+147,18-02-2024,73,1,Unfriendly staff.
+148,28-01-2024,24,1,Prices are too high.
+149,02-04-2024,16,4,Better pricing compared to other stores.
+150,05-01-2024,10,3,Store is not well-maintained.
+151,06-05-2024,165,2,Long wait times at checkout.
+152,19-05-2024,100,3,Prices are too high.
+153,29-01-2024,90,3,Unfriendly staff.
+154,09-04-2024,1,4,Great customer service and friendly staff.
+155,18-04-2024,187,1,Limited product variety.
+156,19-05-2024,123,4,Great customer service and friendly staff.
+157,17-04-2024,196,3,Prices are too high.
+158,07-03-2024,47,5,Better pricing compared to other stores.
+159,04-03-2024,189,2,Unfriendly staff.
+160,23-05-2024,58,3,Limited product variety.
+161,09-05-2024,65,2,Prices are too high.
+162,10-05-2024,159,3,Prices are too high.
+163,09-02-2024,28,3,Prices are too high.
+164,17-03-2024,71,2,Store is not well-maintained.
+165,14-03-2024,44,4,Wide variety of products available.
+166,14-01-2024,180,4,High-quality fresh produce.
+167,07-05-2024,87,5,Convenient store location.
+168,27-01-2024,146,3,Limited product variety.
+169,16-05-2024,86,2,Store is not well-maintained.
+170,24-04-2024,57,3,Prices are too high.
+171,07-02-2024,174,5,Better pricing compared to other stores.
+172,09-06-2024,128,5,Better pricing compared to other stores.
+173,21-03-2024,116,3,Store is not well-maintained.
+174,17-05-2024,174,3,Limited product variety.
+175,12-02-2024,31,1,Unfriendly staff.
+176,08-02-2024,104,1,Limited product variety.
+177,11-01-2024,31,3,Prices are too high.
+178,08-06-2024,27,4,Wide variety of products available.
+179,12-07-2024,155,2,Unfriendly staff.
+180,29-04-2024,146,3,Prices are too high.
+181,13-05-2024,190,3,Store is not well-maintained.
+182,11-02-2024,18,4,High-quality fresh produce.
+183,30-03-2024,52,4,Wide variety of products available.
+184,15-06-2024,195,4,Convenient store location.
+185,30-03-2024,105,4,Better pricing compared to other stores.
+186,05-06-2024,5,3,Limited product variety.
+187,18-05-2024,164,5,Better pricing compared to other stores.
+188,04-01-2024,6,4,Convenient store location.
+189,10-05-2024,131,2,Prices are too high.
+190,12-01-2024,199,1,Prices are too high.
+191,07-04-2024,29,2,Limited product variety.
+192,26-01-2024,30,2,Limited product variety.
+193,09-07-2024,26,5,Better pricing compared to other stores.
+194,02-04-2024,143,2,Long wait times at checkout.
+195,11-07-2024,74,4,Wide variety of products available.
+196,25-02-2024,22,4,Convenient store location.
+197,24-02-2024,68,1,Limited product variety.
+198,02-04-2024,161,5,Great customer service and friendly staff.
+199,11-04-2024,128,3,Limited product variety.
+200,22-02-2024,37,3,Unfriendly staff.
+201,12-06-2024,47,3,Limited product variety.
+202,08-07-2024,35,3,Limited product variety.
+203,14-07-2024,118,5,Wide variety of products available.
+204,30-06-2024,168,1,Long wait times at checkout.
+205,16-01-2024,17,4,High-quality fresh produce.
+206,18-03-2024,163,4,Convenient store location.
+207,07-03-2024,52,5,Great customer service and friendly staff.
+208,25-03-2024,83,1,Unfriendly staff.
+209,13-02-2024,79,3,Long wait times at checkout.
+210,24-02-2024,166,4,Great customer service and friendly staff.
+211,19-07-2024,131,4,Wide variety of products available.
+212,01-02-2024,60,4,Convenient store location.
+213,20-06-2024,149,5,Great customer service and friendly staff.
+214,25-01-2024,151,5,Convenient store location.
+215,30-03-2024,18,4,High-quality fresh produce.
+216,17-05-2024,157,4,Convenient store location.
+217,29-04-2024,60,3,Long wait times at checkout.
+218,21-06-2024,130,2,Long wait times at checkout.
+219,04-05-2024,34,5,Wide variety of products available.
+220,23-02-2024,112,1,Limited product variety.
+221,16-02-2024,187,1,Limited product variety.
+222,28-01-2024,100,1,Store is not well-maintained.
+223,03-03-2024,199,4,Better pricing compared to other stores.
+224,20-06-2024,12,2,Prices are too high.
+225,03-05-2024,29,5,Great customer service and friendly staff.
+226,13-06-2024,12,4,Wide variety of products available.
+227,04-04-2024,16,3,Store is not well-maintained.
+228,12-07-2024,61,2,Store is not well-maintained.
+229,25-03-2024,13,2,Limited product variety.
+230,28-01-2024,76,4,Better pricing compared to other stores.
+231,04-02-2024,100,1,Limited product variety.
+232,28-04-2024,57,3,Unfriendly staff.
+233,20-03-2024,78,3,Long wait times at checkout.
+234,02-04-2024,108,4,Convenient store location.
+235,10-02-2024,78,5,Better pricing compared to other stores.
+236,07-01-2024,200,4,Better pricing compared to other stores.
+237,14-07-2024,192,3,Unfriendly staff.
+238,05-06-2024,59,4,High-quality fresh produce.
+239,03-03-2024,14,5,Convenient store location.
+240,03-04-2024,70,1,Store is not well-maintained.
+241,21-01-2024,45,3,Long wait times at checkout.
+242,16-06-2024,22,4,High-quality fresh produce.
+243,09-05-2024,75,4,Convenient store location.
+244,10-04-2024,115,1,Unfriendly staff.
+245,11-01-2024,7,1,Store is not well-maintained.
+246,11-01-2024,182,5,Better pricing compared to other stores.
+247,01-04-2024,34,3,Limited product variety.
+248,07-02-2024,109,5,Great customer service and friendly staff.
+249,16-07-2024,197,5,Wide variety of products available.
+250,08-01-2024,120,2,Unfriendly staff.
+251,04-04-2024,53,4,Better pricing compared to other stores.
+252,11-06-2024,135,2,Prices are too high.
+253,25-04-2024,160,1,Limited product variety.
+254,24-05-2024,53,5,Convenient store location.
+255,05-02-2024,137,4,Convenient store location.
+256,15-01-2024,68,2,Unfriendly staff.
+257,18-01-2024,126,4,Great customer service and friendly staff.
+258,20-02-2024,130,2,Store is not well-maintained.
+259,27-01-2024,79,5,Wide variety of products available.
+260,13-07-2024,109,5,Convenient store location.
+261,29-02-2024,71,4,Convenient store location.
+262,28-04-2024,122,4,Convenient store location.
+263,30-01-2024,151,2,Prices are too high.
+264,08-04-2024,104,2,Prices are too high.
+265,10-01-2024,5,4,Wide variety of products available.
+266,03-02-2024,163,1,Prices are too high.
+267,22-06-2024,137,1,Unfriendly staff.
+268,18-01-2024,133,1,Limited product variety.
+269,22-02-2024,162,3,Long wait times at checkout.
+270,20-07-2024,48,5,Great customer service and friendly staff.
+271,11-04-2024,123,5,Great customer service and friendly staff.
+272,13-06-2024,25,4,High-quality fresh produce.
+273,25-01-2024,92,2,Long wait times at checkout.
+274,13-06-2024,42,5,Wide variety of products available.
+275,01-07-2024,144,5,High-quality fresh produce.
+276,22-06-2024,110,2,Prices are too high.
+277,15-03-2024,149,5,High-quality fresh produce.
+278,12-03-2024,41,4,Great customer service and friendly staff.
+279,25-01-2024,185,3,Limited product variety.
+280,19-04-2024,197,1,Long wait times at checkout.
+281,04-07-2024,173,5,Great customer service and friendly staff.
+282,05-01-2024,192,1,Unfriendly staff.
+283,22-03-2024,24,2,Unfriendly staff.
+284,19-02-2024,54,5,Better pricing compared to other stores.
+285,09-01-2024,117,2,Store is not well-maintained.
+286,18-04-2024,142,5,High-quality fresh produce.
+287,13-03-2024,38,2,Prices are too high.
+288,30-04-2024,156,1,Store is not well-maintained.
+289,11-07-2024,159,4,High-quality fresh produce.
+290,09-04-2024,114,5,Better pricing compared to other stores.
+291,23-03-2024,7,5,High-quality fresh produce.
+292,20-03-2024,105,2,Long wait times at checkout.
+293,29-04-2024,32,3,Long wait times at checkout.
+294,28-04-2024,94,4,Better pricing compared to other stores.
+295,20-02-2024,109,1,Prices are too high.
+296,10-02-2024,152,4,Great customer service and friendly staff.
+297,17-01-2024,188,4,Better pricing compared to other stores.
+298,08-06-2024,112,1,Limited product variety.
+299,20-05-2024,150,3,Limited product variety.
+300,26-01-2024,193,1,Unfriendly staff.
+301,18-01-2024,145,4,Wide variety of products available.
+302,09-01-2024,86,4,Wide variety of products available.
+303,24-04-2024,116,1,Store is not well-maintained.
+304,02-06-2024,104,5,High-quality fresh produce.
+305,01-01-2024,133,3,Prices are too high.
+306,26-01-2024,112,4,High-quality fresh produce.
+307,05-01-2024,47,1,Prices are too high.
+308,23-04-2024,55,3,Limited product variety.
+309,12-02-2024,29,2,Long wait times at checkout.
+310,18-03-2024,90,3,Limited product variety.
+311,17-02-2024,8,5,Convenient store location.
+312,01-04-2024,138,1,Long wait times at checkout.
+313,10-05-2024,161,2,Long wait times at checkout.
+314,22-05-2024,122,2,Prices are too high.
+315,09-05-2024,138,5,Wide variety of products available.
+316,25-06-2024,27,2,Prices are too high.
+317,27-04-2024,155,1,Long wait times at checkout.
+318,21-02-2024,65,5,Better pricing compared to other stores.
+319,19-01-2024,45,4,Wide variety of products available.
+320,02-07-2024,29,1,Long wait times at checkout.
+321,26-02-2024,106,1,Prices are too high.
+322,19-02-2024,120,1,Store is not well-maintained.
+323,31-03-2024,75,3,Long wait times at checkout.
+324,18-05-2024,72,5,Better pricing compared to other stores.
+325,13-06-2024,113,4,Convenient store location.
+326,29-06-2024,37,1,Store is not well-maintained.
+327,20-02-2024,158,2,Store is not well-maintained.
+328,03-02-2024,93,5,Wide variety of products available.
+329,08-07-2024,61,5,Better pricing compared to other stores.
+330,26-05-2024,15,4,Great customer service and friendly staff.
+331,30-01-2024,30,2,Unfriendly staff.
+332,22-07-2024,194,1,Store is not well-maintained.
+333,11-07-2024,1,2,Unfriendly staff.
+334,25-06-2024,62,5,Wide variety of products available.
+335,09-07-2024,71,4,Better pricing compared to other stores.
+336,13-06-2024,187,1,Prices are too high.
+337,03-07-2024,94,5,High-quality fresh produce.
+338,19-06-2024,106,4,Better pricing compared to other stores.
+339,24-05-2024,181,5,High-quality fresh produce.
+340,25-01-2024,57,3,Store is not well-maintained.
+341,25-03-2024,93,5,Convenient store location.
+342,13-07-2024,138,1,Limited product variety.
+343,05-07-2024,93,3,Prices are too high.
+344,29-06-2024,132,2,Unfriendly staff.
+345,30-01-2024,58,4,Great customer service and friendly staff.
+346,20-02-2024,64,1,Long wait times at checkout.
+347,23-03-2024,120,5,Convenient store location.
+348,02-02-2024,177,2,Long wait times at checkout.
+349,27-03-2024,179,3,Long wait times at checkout.
+350,26-06-2024,90,1,Long wait times at checkout.
+351,03-03-2024,141,5,High-quality fresh produce.
+352,17-01-2024,181,4,Better pricing compared to other stores.
+353,17-04-2024,146,1,Long wait times at checkout.
+354,15-07-2024,175,3,Limited product variety.
+355,04-07-2024,155,1,Limited product variety.
+356,28-03-2024,113,5,Better pricing compared to other stores.
+357,16-01-2024,1,2,Prices are too high.
+358,16-04-2024,9,5,Great customer service and friendly staff.
+359,20-05-2024,156,3,Long wait times at checkout.
+360,15-02-2024,111,1,Long wait times at checkout.
+361,08-04-2024,126,1,Prices are too high.
+362,03-05-2024,187,4,Convenient store location.
+363,12-05-2024,65,3,Unfriendly staff.
+364,13-07-2024,81,4,Convenient store location.
+365,08-06-2024,57,5,Better pricing compared to other stores.
+366,16-07-2024,5,2,Prices are too high.
+367,02-02-2024,147,1,Long wait times at checkout.
+368,26-06-2024,44,1,Long wait times at checkout.
+369,27-03-2024,25,5,Convenient store location.
+370,18-04-2024,170,1,Prices are too high.
+371,14-02-2024,182,4,Great customer service and friendly staff.
+372,12-01-2024,61,1,Long wait times at checkout.
+373,12-07-2024,94,1,Store is not well-maintained.
+374,05-06-2024,137,4,Great customer service and friendly staff.
+375,01-05-2024,139,2,Prices are too high.
+376,16-01-2024,101,1,Store is not well-maintained.
+377,06-04-2024,183,1,Long wait times at checkout.
+378,11-02-2024,182,5,Great customer service and friendly staff.
+379,15-05-2024,146,2,Store is not well-maintained.
+380,07-07-2024,110,3,Limited product variety.
+381,03-05-2024,146,4,Great customer service and friendly staff.
+382,17-07-2024,94,4,Wide variety of products available.
+383,08-05-2024,77,3,Store is not well-maintained.
+384,15-03-2024,26,3,Long wait times at checkout.
+385,11-02-2024,101,4,Wide variety of products available.
+386,06-05-2024,85,3,Store is not well-maintained.
+387,02-04-2024,67,3,Unfriendly staff.
+388,31-05-2024,101,5,Great customer service and friendly staff.
+389,24-02-2024,87,1,Store is not well-maintained.
+390,13-01-2024,41,3,Prices are too high.
+391,20-05-2024,10,1,Unfriendly staff.
+392,18-04-2024,182,5,Convenient store location.
+393,28-04-2024,27,4,Convenient store location.
+394,15-03-2024,82,4,Great customer service and friendly staff.
+395,01-04-2024,170,3,Long wait times at checkout.
+396,11-03-2024,155,2,Limited product variety.
+397,23-06-2024,101,5,Wide variety of products available.
+398,01-02-2024,145,3,Long wait times at checkout.
+399,02-05-2024,32,2,Long wait times at checkout.
+400,07-04-2024,191,2,Prices are too high.
+401,13-01-2024,200,2,Long wait times at checkout.
+402,08-06-2024,62,1,Store is not well-maintained.
+403,29-03-2024,97,2,Limited product variety.
+404,19-07-2024,197,2,Store is not well-maintained.
+405,01-05-2024,133,2,Unfriendly staff.
+406,12-06-2024,95,3,Unfriendly staff.
+407,26-06-2024,177,3,Store is not well-maintained.
+408,04-01-2024,194,1,Long wait times at checkout.
+409,24-02-2024,130,1,Long wait times at checkout.
+410,22-01-2024,194,1,Limited product variety.
+411,30-06-2024,10,1,Long wait times at checkout.
+412,30-01-2024,67,3,Long wait times at checkout.
+413,17-05-2024,18,3,Prices are too high.
+414,17-03-2024,157,4,Better pricing compared to other stores.
+415,27-06-2024,106,3,Limited product variety.
+416,18-04-2024,8,2,Store is not well-maintained.
+417,13-03-2024,172,5,High-quality fresh produce.
+418,22-01-2024,163,4,Great customer service and friendly staff.
+419,14-05-2024,21,3,Limited product variety.
+420,19-05-2024,141,1,Unfriendly staff.
+421,15-05-2024,72,1,Prices are too high.
+422,10-05-2024,114,1,Prices are too high.
+423,26-03-2024,81,1,Long wait times at checkout.
+424,04-05-2024,3,4,Better pricing compared to other stores.
+425,13-04-2024,137,4,Better pricing compared to other stores.
+426,19-04-2024,82,3,Prices are too high.
+427,14-01-2024,129,1,Prices are too high.
+428,23-06-2024,144,2,Prices are too high.
+429,19-07-2024,102,4,Better pricing compared to other stores.
+430,09-06-2024,169,2,Prices are too high.
+431,26-06-2024,14,2,Unfriendly staff.
+432,30-06-2024,179,1,Long wait times at checkout.
+433,14-07-2024,35,3,Unfriendly staff.
+434,04-03-2024,93,2,Long wait times at checkout.
+435,22-02-2024,168,4,Convenient store location.
+436,11-02-2024,72,2,Prices are too high.
+437,13-01-2024,40,4,Convenient store location.
+438,16-01-2024,181,2,Unfriendly staff.
+439,25-06-2024,10,5,Wide variety of products available.
+440,24-02-2024,198,1,Unfriendly staff.
+441,04-01-2024,111,4,Better pricing compared to other stores.
+442,17-04-2024,90,2,Long wait times at checkout.
+443,09-01-2024,183,1,Store is not well-maintained.
+444,30-04-2024,86,5,High-quality fresh produce.
+445,11-07-2024,79,4,High-quality fresh produce.
+446,27-01-2024,110,5,Convenient store location.
+447,18-02-2024,169,4,Great customer service and friendly staff.
+448,08-03-2024,111,4,Better pricing compared to other stores.
+449,24-04-2024,57,1,Store is not well-maintained.
+450,05-06-2024,190,1,Prices are too high.
+451,11-02-2024,105,1,Store is not well-maintained.
+452,21-06-2024,155,3,Prices are too high.
+453,22-05-2024,152,1,Unfriendly staff.
+454,09-07-2024,145,1,Limited product variety.
+455,07-01-2024,58,3,Unfriendly staff.
+456,18-04-2024,136,4,Better pricing compared to other stores.
+457,06-02-2024,112,3,Store is not well-maintained.
+458,09-01-2024,38,1,Long wait times at checkout.
+459,30-04-2024,166,3,Unfriendly staff.
+460,15-06-2024,122,2,Store is not well-maintained.
+461,07-06-2024,190,5,Convenient store location.
+462,06-07-2024,7,2,Store is not well-maintained.
+463,01-02-2024,171,5,High-quality fresh produce.
+464,21-07-2024,102,3,Prices are too high.
+465,11-06-2024,78,3,Store is not well-maintained.
+466,09-04-2024,46,3,Unfriendly staff.
+467,16-04-2024,19,1,Unfriendly staff.
+468,27-02-2024,62,4,Better pricing compared to other stores.
+469,17-06-2024,199,5,Convenient store location.
+470,18-02-2024,16,2,Prices are too high.
+471,23-04-2024,124,2,Long wait times at checkout.
+472,26-04-2024,91,5,High-quality fresh produce.
+473,12-07-2024,102,4,Great customer service and friendly staff.
+474,24-01-2024,94,2,Unfriendly staff.
+475,10-04-2024,38,2,Store is not well-maintained.
+476,09-06-2024,107,3,Store is not well-maintained.
+477,01-07-2024,132,5,Better pricing compared to other stores.
+478,01-02-2024,101,4,High-quality fresh produce.
+479,14-02-2024,128,5,Convenient store location.
+480,07-01-2024,122,1,Limited product variety.
+481,15-02-2024,67,3,Limited product variety.
+482,13-07-2024,78,2,Limited product variety.
+483,28-06-2024,120,3,Long wait times at checkout.
+484,30-06-2024,95,5,Great customer service and friendly staff.
+485,06-01-2024,133,4,Wide variety of products available.
+486,30-03-2024,147,3,Store is not well-maintained.
+487,04-04-2024,174,2,Limited product variety.
+488,01-03-2024,4,3,Long wait times at checkout.
+489,06-05-2024,127,4,Better pricing compared to other stores.
+490,28-06-2024,6,4,Wide variety of products available.
+491,19-01-2024,155,2,Limited product variety.
+492,20-04-2024,187,2,Unfriendly staff.
+493,24-04-2024,111,2,Long wait times at checkout.
+494,28-03-2024,85,3,Unfriendly staff.
+495,12-01-2024,72,1,Store is not well-maintained.
+496,29-06-2024,114,4,Wide variety of products available.
+497,04-04-2024,133,2,Unfriendly staff.
+498,22-02-2024,195,1,Unfriendly staff.
+499,29-04-2024,110,4,Wide variety of products available.
+500,26-05-2024,176,5,High-quality fresh produce.
+501,13-06-2024,143,1,Limited product variety.
+502,06-07-2024,92,1,Store is not well-maintained.
+503,09-04-2024,89,1,Prices are too high.
+504,24-01-2024,13,4,Great customer service and friendly staff.
+505,24-03-2024,180,5,High-quality fresh produce.
+506,23-01-2024,67,3,Long wait times at checkout.
+507,11-04-2024,114,2,Unfriendly staff.
+508,29-03-2024,2,2,Store is not well-maintained.
+509,18-07-2024,182,2,Long wait times at checkout.
+510,09-02-2024,60,5,Wide variety of products available.
+511,29-06-2024,54,4,High-quality fresh produce.
+512,20-06-2024,168,4,Wide variety of products available.
+513,13-07-2024,126,1,Store is not well-maintained.
+514,25-02-2024,94,5,Convenient store location.
+515,11-04-2024,182,5,Wide variety of products available.
+516,05-06-2024,86,3,Unfriendly staff.
+517,03-03-2024,80,5,Better pricing compared to other stores.
+518,20-04-2024,89,4,Better pricing compared to other stores.
+519,30-06-2024,53,1,Store is not well-maintained.
+520,09-01-2024,62,1,Limited product variety.
+521,19-04-2024,116,3,Prices are too high.
+522,17-02-2024,86,4,Convenient store location.
+523,10-02-2024,100,4,Great customer service and friendly staff.
+524,15-03-2024,64,5,High-quality fresh produce.
+525,23-01-2024,83,5,Great customer service and friendly staff.
+526,06-02-2024,166,4,Better pricing compared to other stores.
+527,17-07-2024,78,3,Long wait times at checkout.
+528,14-06-2024,164,4,Convenient store location.
+529,22-04-2024,76,2,Unfriendly staff.
+530,05-04-2024,141,2,Long wait times at checkout.
+531,22-02-2024,132,1,Unfriendly staff.
+532,06-04-2024,147,4,Great customer service and friendly staff.
+533,02-02-2024,195,1,Store is not well-maintained.
+534,12-04-2024,158,2,Prices are too high.
+535,18-05-2024,79,4,Great customer service and friendly staff.
+536,27-05-2024,154,5,Convenient store location.
+537,24-05-2024,101,4,Great customer service and friendly staff.
+538,07-02-2024,13,1,Store is not well-maintained.
+539,17-07-2024,140,5,High-quality fresh produce.
+540,18-02-2024,39,4,High-quality fresh produce.
+541,05-03-2024,84,5,Convenient store location.
+542,29-06-2024,101,2,Unfriendly staff.
+543,22-05-2024,184,3,Long wait times at checkout.
+544,01-02-2024,145,1,Store is not well-maintained.
+545,03-07-2024,108,3,Limited product variety.
+546,23-01-2024,63,2,Limited product variety.
+547,09-01-2024,124,3,Store is not well-maintained.
+548,05-04-2024,99,5,Great customer service and friendly staff.
+549,15-04-2024,167,2,Prices are too high.
+550,03-04-2024,190,4,Great customer service and friendly staff.
+551,27-06-2024,21,3,Unfriendly staff.
+552,15-04-2024,89,4,Great customer service and friendly staff.
+553,17-03-2024,29,3,Long wait times at checkout.
+554,01-03-2024,46,2,Prices are too high.
+555,17-05-2024,31,5,Great customer service and friendly staff.
+556,28-05-2024,178,1,Long wait times at checkout.
+557,01-07-2024,138,3,Unfriendly staff.
+558,24-04-2024,61,3,Limited product variety.
+559,12-01-2024,143,1,Store is not well-maintained.
+560,08-05-2024,187,2,Limited product variety.
+561,22-03-2024,75,2,Limited product variety.
+562,27-05-2024,62,4,Better pricing compared to other stores.
+563,23-02-2024,42,2,Unfriendly staff.
+564,02-05-2024,33,3,Store is not well-maintained.
+565,05-02-2024,81,1,Limited product variety.
+566,01-03-2024,134,3,Store is not well-maintained.
+567,20-03-2024,77,4,Better pricing compared to other stores.
+568,17-02-2024,112,5,High-quality fresh produce.
+569,29-01-2024,47,4,Better pricing compared to other stores.
+570,10-05-2024,123,1,Limited product variety.
+571,10-04-2024,189,5,Great customer service and friendly staff.
+572,12-02-2024,42,3,Store is not well-maintained.
+573,26-01-2024,138,3,Prices are too high.
+574,14-02-2024,119,1,Unfriendly staff.
+575,11-01-2024,169,2,Long wait times at checkout.
+576,23-02-2024,177,1,Prices are too high.
+577,11-01-2024,52,3,Unfriendly staff.
+578,27-05-2024,180,5,High-quality fresh produce.
+579,05-01-2024,32,3,Prices are too high.
+580,08-07-2024,161,3,Store is not well-maintained.
+581,09-02-2024,48,4,Great customer service and friendly staff.
+582,06-04-2024,148,4,Great customer service and friendly staff.
+583,05-06-2024,122,2,Unfriendly staff.
+584,20-03-2024,43,4,Great customer service and friendly staff.
+585,21-01-2024,3,5,Great customer service and friendly staff.
+586,13-01-2024,132,5,Convenient store location.
+587,19-05-2024,163,5,Wide variety of products available.
+588,19-02-2024,76,2,Unfriendly staff.
+589,09-03-2024,31,5,Great customer service and friendly staff.
+590,30-01-2024,38,1,Prices are too high.
+591,30-04-2024,99,3,Prices are too high.
+592,12-04-2024,177,5,Convenient store location.
+593,04-03-2024,39,1,Limited product variety.
+594,13-06-2024,52,4,Convenient store location.
+595,19-06-2024,74,2,Limited product variety.
+596,04-04-2024,178,2,Unfriendly staff.
+597,21-05-2024,95,2,Unfriendly staff.
+598,18-03-2024,44,4,Great customer service and friendly staff.
+599,13-04-2024,11,5,High-quality fresh produce.
+600,22-02-2024,133,5,Better pricing compared to other stores.
+601,02-05-2024,101,5,Convenient store location.
+602,13-06-2024,168,1,Prices are too high.
+603,16-02-2024,104,3,Long wait times at checkout.
+604,18-02-2024,64,5,Convenient store location.
+605,07-06-2024,195,3,Prices are too high.
+606,12-02-2024,107,1,Prices are too high.
+607,01-05-2024,113,5,High-quality fresh produce.
+608,30-04-2024,40,5,Wide variety of products available.
+609,14-04-2024,144,4,Wide variety of products available.
+610,25-02-2024,32,1,Store is not well-maintained.
+611,09-06-2024,142,3,Limited product variety.
+612,03-02-2024,6,2,Store is not well-maintained.
+613,16-04-2024,58,2,Store is not well-maintained.
+614,07-05-2024,20,2,Prices are too high.
+615,02-05-2024,119,4,Better pricing compared to other stores.
+616,22-03-2024,100,4,Wide variety of products available.
+617,19-06-2024,190,4,Great customer service and friendly staff.
+618,03-05-2024,144,5,Better pricing compared to other stores.
+619,29-02-2024,70,2,Store is not well-maintained.
+620,04-06-2024,88,4,High-quality fresh produce.
+621,19-02-2024,48,3,Prices are too high.
+622,23-05-2024,71,2,Unfriendly staff.
+623,24-01-2024,194,5,Wide variety of products available.
+624,11-02-2024,54,1,Prices are too high.
+625,14-04-2024,119,3,Prices are too high.
+626,30-04-2024,49,5,Better pricing compared to other stores.
+627,13-01-2024,117,1,Unfriendly staff.
+628,12-03-2024,40,5,Better pricing compared to other stores.
+629,15-03-2024,146,5,Convenient store location.
+630,21-02-2024,74,1,Store is not well-maintained.
+631,16-03-2024,54,5,Wide variety of products available.
+632,14-05-2024,47,1,Unfriendly staff.
+633,23-05-2024,106,2,Unfriendly staff.
+634,30-03-2024,196,4,Wide variety of products available.
+635,15-05-2024,50,2,Unfriendly staff.
+636,17-07-2024,85,3,Prices are too high.
+637,22-01-2024,181,4,Great customer service and friendly staff.
+638,21-03-2024,30,2,Prices are too high.
+639,09-05-2024,161,5,Wide variety of products available.
+640,07-03-2024,41,1,Long wait times at checkout.
+641,16-07-2024,124,1,Limited product variety.
+642,20-07-2024,136,5,High-quality fresh produce.
+643,12-01-2024,33,2,Store is not well-maintained.
+644,10-05-2024,119,3,Unfriendly staff.
+645,11-01-2024,119,4,High-quality fresh produce.
+646,11-07-2024,37,3,Long wait times at checkout.
+647,02-05-2024,68,3,Unfriendly staff.
+648,18-01-2024,117,4,Wide variety of products available.
+649,12-07-2024,36,3,Limited product variety.
+650,16-07-2024,121,3,Unfriendly staff.
+651,04-02-2024,164,2,Prices are too high.
+652,24-06-2024,182,3,Prices are too high.
+653,23-03-2024,118,3,Prices are too high.
+654,20-05-2024,73,5,Great customer service and friendly staff.
+655,10-04-2024,27,2,Long wait times at checkout.
+656,24-04-2024,14,5,Wide variety of products available.
+657,21-02-2024,187,2,Limited product variety.
+658,19-05-2024,121,5,High-quality fresh produce.
+659,11-03-2024,101,4,Great customer service and friendly staff.
+660,18-04-2024,69,1,Store is not well-maintained.
+661,02-07-2024,191,3,Limited product variety.
+662,10-07-2024,12,4,Wide variety of products available.
+663,08-07-2024,135,3,Long wait times at checkout.
+664,06-07-2024,147,5,Better pricing compared to other stores.
+665,08-04-2024,107,4,High-quality fresh produce.
+666,20-04-2024,2,4,Wide variety of products available.
+667,16-04-2024,34,2,Store is not well-maintained.
+668,31-05-2024,102,3,Prices are too high.
+669,12-04-2024,143,4,Wide variety of products available.
+670,05-04-2024,162,2,Store is not well-maintained.
+671,14-01-2024,132,1,Limited product variety.
+672,28-04-2024,182,2,Long wait times at checkout.
+673,14-06-2024,171,5,High-quality fresh produce.
+674,19-04-2024,132,2,Limited product variety.
+675,21-01-2024,91,4,Great customer service and friendly staff.
+676,19-01-2024,147,3,Limited product variety.
+677,17-06-2024,136,2,Long wait times at checkout.
+678,04-01-2024,198,1,Limited product variety.
+679,30-05-2024,12,4,High-quality fresh produce.
+680,17-07-2024,9,5,High-quality fresh produce.
+681,22-02-2024,177,5,Wide variety of products available.
+682,31-05-2024,98,4,High-quality fresh produce.
+683,25-04-2024,162,1,Limited product variety.
+684,17-06-2024,91,1,Long wait times at checkout.
+685,18-02-2024,61,3,Limited product variety.
+686,26-06-2024,123,1,Unfriendly staff.
+687,21-05-2024,97,5,Better pricing compared to other stores.
+688,21-05-2024,173,5,Great customer service and friendly staff.
+689,21-03-2024,46,4,High-quality fresh produce.
+690,11-07-2024,78,3,Store is not well-maintained.
+691,28-06-2024,3,2,Prices are too high.
+692,29-03-2024,2,1,Unfriendly staff.
+693,16-05-2024,81,3,Prices are too high.
+694,22-04-2024,32,1,Unfriendly staff.
+695,27-05-2024,29,1,Store is not well-maintained.
+696,09-01-2024,192,5,Wide variety of products available.
+697,09-02-2024,132,4,Convenient store location.
+698,24-02-2024,132,4,High-quality fresh produce.
+699,17-02-2024,154,1,Store is not well-maintained.
+700,09-01-2024,89,2,Long wait times at checkout.
+701,08-04-2024,70,5,Wide variety of products available.
+702,10-01-2024,195,2,Store is not well-maintained.
+703,30-06-2024,52,5,Great customer service and friendly staff.
+704,02-03-2024,28,4,Wide variety of products available.
+705,19-05-2024,66,1,Prices are too high.
+706,08-04-2024,130,5,Convenient store location.
+707,17-05-2024,117,4,Wide variety of products available.
+708,17-03-2024,148,4,High-quality fresh produce.
+709,17-06-2024,8,2,Limited product variety.
+710,17-01-2024,180,2,Unfriendly staff.
+711,05-02-2024,74,4,Great customer service and friendly staff.
+712,17-06-2024,147,2,Unfriendly staff.
+713,24-01-2024,6,5,Wide variety of products available.
+714,27-03-2024,192,2,Store is not well-maintained.
+715,24-02-2024,125,1,Store is not well-maintained.
+716,08-04-2024,79,5,Great customer service and friendly staff.
+717,01-07-2024,79,1,Long wait times at checkout.
+718,13-01-2024,165,5,Wide variety of products available.
+719,20-06-2024,117,1,Long wait times at checkout.
+720,25-02-2024,23,5,Wide variety of products available.
+721,03-06-2024,162,5,Wide variety of products available.
+722,22-02-2024,105,2,Prices are too high.
+723,20-05-2024,148,3,Store is not well-maintained.
+724,10-02-2024,163,2,Unfriendly staff.
+725,04-07-2024,137,4,Convenient store location.
+726,25-04-2024,116,1,Limited product variety.
+727,19-03-2024,101,2,Limited product variety.
+728,18-02-2024,16,3,Prices are too high.
+729,02-06-2024,62,3,Store is not well-maintained.
+730,23-01-2024,114,1,Prices are too high.
+731,25-03-2024,120,1,Limited product variety.
+732,21-02-2024,161,5,Convenient store location.
+733,24-05-2024,149,1,Limited product variety.
+734,23-01-2024,54,1,Store is not well-maintained.
+735,30-03-2024,58,3,Prices are too high.
+736,25-04-2024,145,1,Limited product variety.
+737,05-04-2024,83,3,Prices are too high.
+738,16-07-2024,100,4,Great customer service and friendly staff.
+739,10-04-2024,132,2,Prices are too high.
+740,13-04-2024,147,5,Wide variety of products available.
+741,01-03-2024,195,5,Wide variety of products available.
+742,27-06-2024,160,1,Unfriendly staff.
+743,18-05-2024,164,3,Unfriendly staff.
+744,01-03-2024,117,1,Prices are too high.
+745,04-04-2024,144,3,Long wait times at checkout.
+746,14-06-2024,178,4,High-quality fresh produce.
+747,05-02-2024,154,1,Limited product variety.
+748,12-07-2024,84,5,Convenient store location.
+749,12-04-2024,58,4,High-quality fresh produce.
+750,09-06-2024,123,3,Limited product variety.
+751,11-04-2024,184,2,Store is not well-maintained.
+752,10-05-2024,197,3,Limited product variety.
+753,28-04-2024,79,2,Store is not well-maintained.
+754,17-05-2024,164,3,Store is not well-maintained.
+755,17-05-2024,137,4,Convenient store location.
+756,26-06-2024,153,1,Prices are too high.
+757,15-07-2024,159,3,Limited product variety.
+758,15-02-2024,92,4,Better pricing compared to other stores.
+759,08-03-2024,109,4,Better pricing compared to other stores.
+760,23-06-2024,119,2,Unfriendly staff.
+761,15-03-2024,118,5,Better pricing compared to other stores.
+762,12-02-2024,127,3,Long wait times at checkout.
+763,10-07-2024,175,2,Limited product variety.
+764,21-04-2024,5,3,Long wait times at checkout.
+765,25-02-2024,103,5,Great customer service and friendly staff.
+766,19-06-2024,199,2,Unfriendly staff.
+767,11-02-2024,158,3,Limited product variety.
+768,29-03-2024,121,3,Long wait times at checkout.
+769,21-02-2024,162,1,Prices are too high.
+770,26-02-2024,56,2,Prices are too high.
+771,18-04-2024,43,1,Limited product variety.
+772,10-01-2024,196,1,Unfriendly staff.
+773,03-03-2024,75,4,Wide variety of products available.
+774,23-03-2024,40,3,Store is not well-maintained.
+775,22-03-2024,195,2,Limited product variety.
+776,02-06-2024,163,3,Long wait times at checkout.
+777,20-02-2024,81,4,Great customer service and friendly staff.
+778,03-07-2024,14,2,Long wait times at checkout.
+779,30-05-2024,198,5,High-quality fresh produce.
+780,09-02-2024,19,3,Store is not well-maintained.
+781,28-06-2024,65,2,Limited product variety.
+782,07-06-2024,165,5,Better pricing compared to other stores.
+783,15-04-2024,87,4,Better pricing compared to other stores.
+784,12-01-2024,138,4,High-quality fresh produce.
+785,17-04-2024,110,5,High-quality fresh produce.
+786,16-01-2024,108,1,Prices are too high.
+787,18-04-2024,129,4,Better pricing compared to other stores.
+788,31-05-2024,178,3,Store is not well-maintained.
+789,10-05-2024,37,5,High-quality fresh produce.
+790,22-05-2024,90,2,Long wait times at checkout.
+791,08-02-2024,188,3,Unfriendly staff.
+792,01-02-2024,59,2,Prices are too high.
+793,04-03-2024,30,4,High-quality fresh produce.
+794,26-05-2024,180,5,High-quality fresh produce.
+795,30-03-2024,86,4,Wide variety of products available.
+796,14-07-2024,109,1,Unfriendly staff.
+797,31-01-2024,108,5,High-quality fresh produce.
+798,17-02-2024,135,3,Unfriendly staff.
+799,07-01-2024,176,3,Store is not well-maintained.
+800,16-05-2024,12,4,Better pricing compared to other stores.
+801,03-01-2024,156,5,High-quality fresh produce.
+802,22-02-2024,60,1,Prices are too high.
+803,20-02-2024,27,4,High-quality fresh produce.
+804,03-03-2024,165,2,Limited product variety.
+805,15-01-2024,177,2,Limited product variety.
+806,04-07-2024,142,5,Wide variety of products available.
+807,23-04-2024,6,1,Unfriendly staff.
+808,11-05-2024,41,3,Long wait times at checkout.
+809,18-05-2024,156,3,Limited product variety.
+810,06-03-2024,108,3,Store is not well-maintained.
+811,22-02-2024,4,1,Store is not well-maintained.
+812,20-06-2024,1,3,Long wait times at checkout.
+813,12-06-2024,174,2,Long wait times at checkout.
+814,09-07-2024,83,3,Limited product variety.
+815,06-07-2024,173,1,Store is not well-maintained.
+816,15-04-2024,178,2,Limited product variety.
+817,11-03-2024,155,3,Store is not well-maintained.
+818,21-03-2024,75,2,Long wait times at checkout.
+819,22-03-2024,108,2,Prices are too high.
+820,03-05-2024,124,2,Prices are too high.
+821,12-04-2024,127,1,Long wait times at checkout.
+822,25-03-2024,124,2,Limited product variety.
+823,30-03-2024,69,2,Long wait times at checkout.
+824,26-06-2024,37,5,High-quality fresh produce.
+825,16-03-2024,93,4,Convenient store location.
+826,21-02-2024,43,1,Unfriendly staff.
+827,20-06-2024,193,1,Prices are too high.
+828,20-07-2024,26,2,Store is not well-maintained.
+829,24-03-2024,154,2,Limited product variety.
+830,11-06-2024,127,3,Long wait times at checkout.
+831,13-03-2024,168,2,Store is not well-maintained.
+832,31-01-2024,47,2,Long wait times at checkout.
+833,13-05-2024,59,2,Unfriendly staff.
+834,16-02-2024,123,3,Unfriendly staff.
+835,16-01-2024,125,1,Limited product variety.
+836,05-01-2024,132,5,Convenient store location.
+837,23-02-2024,107,4,Better pricing compared to other stores.
+838,27-05-2024,104,4,Wide variety of products available.
+839,01-01-2024,172,2,Store is not well-maintained.
+840,09-07-2024,172,2,Long wait times at checkout.
+841,20-06-2024,69,5,Wide variety of products available.
+842,05-03-2024,30,2,Long wait times at checkout.
+843,27-01-2024,109,4,Wide variety of products available.
+844,09-04-2024,96,1,Long wait times at checkout.
+845,16-03-2024,20,4,Better pricing compared to other stores.
+846,07-04-2024,55,5,Wide variety of products available.
+847,21-07-2024,166,1,Prices are too high.
+848,29-05-2024,32,5,Convenient store location.
+849,28-05-2024,33,3,Limited product variety.
+850,13-05-2024,112,5,Wide variety of products available.
+851,25-03-2024,193,5,Convenient store location.
+852,11-07-2024,49,4,Convenient store location.
+853,27-01-2024,95,2,Store is not well-maintained.
+854,20-05-2024,87,1,Prices are too high.
+855,18-05-2024,26,3,Unfriendly staff.
+856,04-07-2024,182,1,Limited product variety.
+857,06-04-2024,2,4,Great customer service and friendly staff.
+858,13-02-2024,103,3,Limited product variety.
+859,11-01-2024,144,4,Convenient store location.
+860,18-05-2024,123,1,Limited product variety.
+861,11-03-2024,164,5,Better pricing compared to other stores.
+862,02-01-2024,199,2,Long wait times at checkout.
+863,16-03-2024,36,4,Great customer service and friendly staff.
+864,26-01-2024,128,2,Prices are too high.
+865,24-06-2024,98,1,Unfriendly staff.
+866,27-03-2024,10,4,Great customer service and friendly staff.
+867,12-01-2024,71,3,Limited product variety.
+868,20-05-2024,11,1,Prices are too high.
+869,21-01-2024,110,2,Unfriendly staff.
+870,03-07-2024,185,2,Limited product variety.
+871,22-03-2024,64,4,Convenient store location.
+872,31-03-2024,38,4,Great customer service and friendly staff.
+873,30-06-2024,187,3,Store is not well-maintained.
+874,23-06-2024,40,1,Long wait times at checkout.
+875,29-03-2024,73,3,Prices are too high.
+876,10-02-2024,60,2,Prices are too high.
+877,20-02-2024,38,4,Better pricing compared to other stores.
+878,03-07-2024,6,5,High-quality fresh produce.
+879,15-03-2024,105,3,Limited product variety.
+880,16-04-2024,80,2,Unfriendly staff.
+881,03-02-2024,197,4,Convenient store location.
+882,30-04-2024,35,5,Wide variety of products available.
+883,19-07-2024,77,1,Limited product variety.
+884,11-05-2024,125,1,Limited product variety.
+885,21-01-2024,71,4,High-quality fresh produce.
+886,03-03-2024,146,4,Better pricing compared to other stores.
+887,25-06-2024,125,3,Long wait times at checkout.
+888,24-05-2024,185,3,Store is not well-maintained.
+889,11-01-2024,161,1,Prices are too high.
+890,28-02-2024,2,1,Limited product variety.
+891,08-06-2024,30,2,Limited product variety.
+892,08-01-2024,62,3,Unfriendly staff.
+893,01-01-2024,152,1,Unfriendly staff.
+894,23-01-2024,107,2,Unfriendly staff.
+895,02-07-2024,124,5,Great customer service and friendly staff.
+896,28-02-2024,15,2,Long wait times at checkout.
+897,08-03-2024,174,1,Prices are too high.
+898,11-01-2024,30,3,Store is not well-maintained.
+899,04-07-2024,180,1,Store is not well-maintained.
+900,03-02-2024,106,5,Wide variety of products available.
+901,01-03-2024,92,2,Limited product variety.
+902,17-02-2024,154,5,High-quality fresh produce.
+903,21-07-2024,34,5,High-quality fresh produce.
+904,18-04-2024,25,2,Long wait times at checkout.
+905,14-05-2024,82,2,Store is not well-maintained.
+906,10-03-2024,4,4,Wide variety of products available.
+907,05-04-2024,178,4,Great customer service and friendly staff.
+908,05-05-2024,169,1,Prices are too high.
+909,09-06-2024,149,5,Wide variety of products available.
+910,15-01-2024,81,1,Limited product variety.
+911,21-02-2024,37,1,Prices are too high.
+912,01-04-2024,135,3,Long wait times at checkout.
+913,22-03-2024,29,4,High-quality fresh produce.
+914,30-01-2024,39,4,Great customer service and friendly staff.
+915,07-05-2024,198,2,Prices are too high.
+916,19-07-2024,108,1,Prices are too high.
+917,29-06-2024,30,2,Long wait times at checkout.
+918,16-05-2024,11,3,Limited product variety.
+919,14-02-2024,50,5,Wide variety of products available.
+920,27-06-2024,27,5,Convenient store location.
+921,20-05-2024,12,3,Store is not well-maintained.
+922,22-06-2024,145,3,Store is not well-maintained.
+923,12-01-2024,9,1,Prices are too high.
+924,17-03-2024,20,2,Prices are too high.
+925,05-03-2024,200,1,Store is not well-maintained.
+926,17-03-2024,41,4,Convenient store location.
+927,06-01-2024,88,1,Limited product variety.
+928,23-01-2024,107,1,Long wait times at checkout.
+929,17-06-2024,105,4,Wide variety of products available.
+930,02-01-2024,110,3,Store is not well-maintained.
+931,19-04-2024,149,4,Better pricing compared to other stores.
+932,27-01-2024,101,2,Long wait times at checkout.
+933,29-06-2024,131,5,High-quality fresh produce.
+934,10-05-2024,144,5,Wide variety of products available.
+935,05-01-2024,175,2,Store is not well-maintained.
+936,06-03-2024,144,2,Prices are too high.
+937,18-04-2024,47,2,Prices are too high.
+938,17-02-2024,194,1,Unfriendly staff.
+939,26-03-2024,188,3,Store is not well-maintained.
+940,10-01-2024,108,4,Great customer service and friendly staff.
+941,19-01-2024,145,1,Limited product variety.
+942,21-06-2024,124,2,Unfriendly staff.
+943,18-07-2024,118,5,Great customer service and friendly staff.
+944,13-06-2024,3,1,Store is not well-maintained.
+945,10-07-2024,46,5,Great customer service and friendly staff.
+946,15-05-2024,140,2,Limited product variety.
+947,19-07-2024,159,4,Convenient store location.
+948,07-07-2024,166,1,Limited product variety.
+949,06-05-2024,66,1,Long wait times at checkout.
+950,12-05-2024,197,1,Prices are too high.
+951,11-05-2024,126,4,High-quality fresh produce.
+952,02-01-2024,5,4,Better pricing compared to other stores.
+953,11-05-2024,144,1,Limited product variety.
+954,07-02-2024,193,3,Store is not well-maintained.
+955,27-04-2024,81,5,Great customer service and friendly staff.
+956,10-05-2024,97,4,Great customer service and friendly staff.
+957,17-01-2024,116,5,Better pricing compared to other stores.
+958,25-04-2024,189,1,Limited product variety.
+959,19-06-2024,101,3,Unfriendly staff.
+960,09-03-2024,12,5,Convenient store location.
+961,06-04-2024,46,3,Prices are too high.
+962,31-05-2024,19,4,Convenient store location.
+963,09-06-2024,153,5,High-quality fresh produce.
+964,23-04-2024,77,4,High-quality fresh produce.
+965,01-06-2024,169,3,Store is not well-maintained.
+966,19-02-2024,38,1,Long wait times at checkout.
+967,21-06-2024,11,3,Unfriendly staff.
+968,10-03-2024,134,4,High-quality fresh produce.
+969,13-07-2024,182,4,Better pricing compared to other stores.
+970,15-06-2024,172,3,Limited product variety.
+971,11-05-2024,165,1,Long wait times at checkout.
+972,10-02-2024,95,3,Unfriendly staff.
+973,18-02-2024,165,5,Great customer service and friendly staff.
+974,21-04-2024,130,2,Limited product variety.
+975,22-02-2024,197,1,Store is not well-maintained.
+976,16-01-2024,122,2,Prices are too high.
+977,29-04-2024,34,1,Unfriendly staff.
+978,28-03-2024,188,5,Wide variety of products available.
+979,15-04-2024,53,2,Unfriendly staff.
+980,05-05-2024,21,5,Better pricing compared to other stores.
+981,18-01-2024,174,5,High-quality fresh produce.
+982,10-04-2024,160,2,Store is not well-maintained.
+983,04-06-2024,88,4,Great customer service and friendly staff.
+984,26-02-2024,142,2,Prices are too high.
+985,11-02-2024,97,3,Limited product variety.
+986,08-07-2024,123,2,Long wait times at checkout.
+987,29-05-2024,4,2,Long wait times at checkout.
+988,11-04-2024,36,3,Unfriendly staff.
+989,16-03-2024,21,2,Prices are too high.
+990,24-04-2024,169,3,Unfriendly staff.
+991,19-03-2024,181,3,Prices are too high.
+992,21-04-2024,77,3,Prices are too high.
+993,11-02-2024,184,1,Prices are too high.
+994,14-06-2024,94,4,Better pricing compared to other stores.
+995,26-05-2024,197,2,Prices are too high.
+996,23-06-2024,147,3,Long wait times at checkout.
+997,09-04-2024,175,4,Better pricing compared to other stores.
+998,14-01-2024,20,2,Store is not well-maintained.
+999,20-06-2024,150,4,Convenient store location.
+1000,11-06-2024,93,4,Convenient store location.

@@ -1,0 +1,201 @@
+CustomerID,Name,Age,Gender,Location,JoinDate,LoyaltyScore
+1,Ashley Crawford,29,Female, RS Puram,13-12-2022,91
+2,Mrs. Stacey Davis,61,Male, Gandhipuram,13-10-2021,69
+3,Barry Scott,61,Male, Saibaba Colony,23-09-2023,63
+4,Tracy Wilkerson,61,Female, Peelamedu,12-03-2023,80
+5,John Shields,65,Male, Race Course,13-04-2020,87
+6,Fernando Lynn,48,Male, Saravanampatti,14-05-2021,68
+7,Kimberly Villanueva,67,Female, Singanallur,06-04-2020,74
+8,Matthew Lawson,65,Male, Vadavalli,25-10-2022,30
+9,Colton Terry,22,Male, Ramanathapuram,08-01-2022,84
+10,James Dunn,26,Male, Ukkadam,12-01-2020,58
+11,Edward Stanley,61,Male, Thudiyalur,04-10-2021,62
+12,Edgar Miller,65,Female, RS Puram,28-02-2024,97
+13,Deborah May,55,Female, Gandhipuram,21-02-2023,8
+14,Andrew Gonzales,18,Male, Saibaba Colony,10-07-2020,5
+15,Michael Davis,53,Female, Peelamedu,07-12-2021,56
+16,Sara Cardenas,27,Male, Race Course,02-01-2022,87
+17,Blake Orr,29,Female, Saravanampatti,03-04-2021,10
+18,Peter Thompson,63,Female, Singanallur,27-01-2021,93
+19,Blake Vega,22,Male, Vadavalli,12-03-2022,38
+20,Nicholas Aguirre,50,Male, Ramanathapuram,10-10-2022,1
+21,Kelly Stark,50,Female, Ukkadam,11-06-2024,71
+22,Ashley Hernandez,70,Male, Thudiyalur,07-06-2022,53
+23,Sheryl Humphrey,61,Male, RS Puram,09-01-2024,28
+24,Donald Thomas,59,Female, Gandhipuram,08-01-2022,30
+25,John Adams,22,Male, Saibaba Colony,24-08-2022,38
+26,John Horton,29,Male, Peelamedu,08-10-2023,45
+27,Erica Daniel,64,Male, Race Course,14-02-2024,53
+28,Sharon Nicholson,28,Male, Saravanampatti,23-04-2024,98
+29,Richard Warren,31,Female, Singanallur,28-06-2020,75
+30,Jesus Hull,38,Male, Vadavalli,13-12-2023,37
+31,Madison Martinez,60,Female, Ramanathapuram,05-07-2021,63
+32,Karen Arnold,70,Male, Ukkadam,07-10-2020,85
+33,James Martin,37,Female, Thudiyalur,30-11-2021,30
+34,Debra Ortiz,54,Female, RS Puram,12-01-2024,39
+35,Maria Burke,46,Female, Gandhipuram,05-05-2022,96
+36,James Bailey,69,Male, Saibaba Colony,05-06-2024,14
+37,Jennifer Garcia,28,Female, Peelamedu,16-07-2022,70
+38,Karen Rogers,40,Female, Race Course,22-03-2022,54
+39,Tiffany Curtis,25,Female, Saravanampatti,16-01-2022,49
+40,Renee Lang,45,Female, Singanallur,20-03-2020,76
+41,Yolanda Green,69,Male, Vadavalli,13-08-2021,65
+42,Micheal Parks,18,Female, Ramanathapuram,25-04-2024,24
+43,Christopher Sandoval,40,Male, Ukkadam,01-02-2021,61
+44,Molly Hansen,41,Female, Thudiyalur,04-10-2020,8
+45,Daniel Savage,24,Female, RS Puram,28-02-2023,82
+46,Edward York,53,Male, Gandhipuram,09-08-2020,72
+47,Cory Wilson,66,Female, Saibaba Colony,16-06-2020,12
+48,Brittany Gay,43,Male, Peelamedu,22-11-2023,7
+49,Scott White,30,Female, Race Course,31-08-2022,68
+50,Abigail Hill,48,Female, Saravanampatti,01-03-2024,94
+51,Penny Anderson,69,Male, Singanallur,25-08-2023,67
+52,Janet Johnson,64,Female, Vadavalli,13-02-2020,66
+53,Nicole Schmidt,52,Female, Ramanathapuram,03-12-2021,94
+54,Haley Anderson,27,Female, Ukkadam,02-06-2021,9
+55,Angel Fry,44,Female, Thudiyalur,15-11-2022,55
+56,Michael Anderson,33,Male, RS Puram,27-05-2021,20
+57,Tamara Powell,44,Female, Gandhipuram,11-02-2021,24
+58,Alex Wagner,55,Female, Saibaba Colony,11-03-2023,57
+59,Dawn Nichols,36,Female, Peelamedu,02-03-2020,40
+60,Brian Wallace,48,Male, Race Course,30-09-2021,93
+61,Lorraine Turner,66,Male, Saravanampatti,25-07-2023,20
+62,Ashley Higgins,35,Female, Singanallur,26-03-2024,45
+63,Curtis Baker,63,Male, Vadavalli,06-07-2022,12
+64,Joshua Lozano,68,Female, Ramanathapuram,09-02-2020,77
+65,Susan Conley,54,Male, Ukkadam,08-05-2024,7
+66,Nathaniel Conway,32,Male, Thudiyalur,08-07-2022,44
+67,Anthony Li,55,Female, RS Puram,16-08-2023,23
+68,Anna Chang,48,Female, Gandhipuram,18-10-2022,63
+69,Jeffrey Howell,65,Male, Saibaba Colony,19-12-2020,52
+70,Victor Nelson,37,Male, Peelamedu,03-08-2023,84
+71,Rebecca Wilson,57,Female, Race Course,08-02-2024,35
+72,Meghan White,44,Female, Saravanampatti,09-02-2021,41
+73,Mr. Stephen Alexander,35,Female, Singanallur,18-06-2024,62
+74,Laura Cunningham,35,Male, Vadavalli,06-09-2023,46
+75,Danielle Reed,59,Female, Ramanathapuram,18-06-2020,7
+76,Timothy Wagner,34,Male, Ukkadam,20-08-2020,50
+77,Erica Rivera,70,Male, Thudiyalur,22-03-2023,67
+78,David Stevens,49,Male, RS Puram,20-10-2023,91
+79,William Mcgee,58,Female, Gandhipuram,01-01-2020,93
+80,Rebecca Richmond,47,Male, Saibaba Colony,04-10-2021,18
+81,Joy Peterson,46,Male, Peelamedu,28-10-2022,39
+82,Lisa Kennedy,52,Female, Race Course,29-10-2020,82
+83,Courtney Peterson,20,Male, Saravanampatti,26-11-2020,40
+84,Christopher Taylor,29,Male, Singanallur,05-08-2021,41
+85,Samuel Lewis,61,Female, Vadavalli,11-07-2023,40
+86,Mark Powers,33,Male, Ramanathapuram,15-04-2024,38
+87,Jonathan Moreno,23,Male, Ukkadam,09-02-2024,43
+88,Priscilla Kent,43,Male, Thudiyalur,17-11-2020,19
+89,Kyle Andrade,49,Female, RS Puram,30-04-2022,52
+90,Grant Phillips,40,Male, Gandhipuram,10-05-2024,35
+91,Michael Valencia,51,Female, Saibaba Colony,21-06-2022,65
+92,Tammy Anderson,24,Female, Peelamedu,28-09-2022,9
+93,Paige Hart,54,Female, Race Course,07-06-2022,67
+94,Jenny Smith,36,Male, Saravanampatti,24-06-2020,70
+95,Paul Martin,40,Female, Singanallur,11-07-2020,25
+96,Elizabeth Molina,18,Male, Vadavalli,27-11-2021,95
+97,Kristina Young,49,Female, Ramanathapuram,31-03-2023,93
+98,Tyler Daugherty,63,Female, Ukkadam,10-02-2020,64
+99,Christina Melton,54,Male, Thudiyalur,02-09-2021,89
+100,Tracey Phillips,41,Female, RS Puram,23-06-2021,30
+101,Barbara Williams,37,Male, Gandhipuram,14-05-2021,2
+102,Dawn Rivera,64,Male, Saibaba Colony,29-09-2022,49
+103,Patricia Garrett,69,Female, Peelamedu,17-01-2023,60
+104,Michael Fox,59,Male, Race Course,18-04-2024,52
+105,Joshua Powell,45,Male, Saravanampatti,28-10-2022,86
+106,Edward Clements,49,Female, Singanallur,22-12-2020,1
+107,Jill Conway,32,Female, Vadavalli,24-09-2022,6
+108,Robert Wilson,51,Female, Ramanathapuram,17-03-2020,25
+109,Samantha Brooks,42,Male, Ukkadam,21-08-2021,64
+110,Bradley Davis,51,Male, Thudiyalur,10-08-2023,26
+111,Christine Poole,51,Male, RS Puram,22-04-2021,96
+112,Mitchell Johnson,19,Female, Gandhipuram,06-08-2020,28
+113,Crystal Green,37,Female, Saibaba Colony,07-09-2023,86
+114,James Wilson,25,Female, Peelamedu,21-05-2020,8
+115,Angel Reilly,67,Female, Race Course,25-09-2020,66
+116,Timothy James,64,Female, Saravanampatti,27-02-2021,66
+117,Rebecca Atkinson,53,Female, Singanallur,15-07-2022,99
+118,Suzanne Norton,69,Male, Vadavalli,15-03-2021,59
+119,Aaron Carlson,27,Female, Ramanathapuram,19-10-2021,64
+120,Matthew Hunt,43,Male, Ukkadam,24-02-2022,90
+121,Christopher Marsh,68,Male, Thudiyalur,04-12-2023,9
+122,Angel Powers,29,Male, RS Puram,22-02-2024,67
+123,Heather Lambert,28,Female, Gandhipuram,04-08-2020,51
+124,Emily Hayes,18,Female, Saibaba Colony,06-02-2023,93
+125,Tina Jackson,54,Female, Peelamedu,16-09-2023,64
+126,Ian Frazier,31,Female, Race Course,15-10-2023,62
+127,Eric Arnold,31,Male, Saravanampatti,21-05-2022,17
+128,Brenda Ryan,61,Male, Singanallur,22-08-2020,85
+129,Sarah Welch,21,Female, Vadavalli,23-04-2020,21
+130,Kimberly Lutz,26,Male, Ramanathapuram,10-02-2023,100
+131,Steven Lawrence,32,Female, Ukkadam,04-05-2024,52
+132,Jack Smith,70,Female, Thudiyalur,30-05-2021,29
+133,Brenda Moore,57,Female, RS Puram,19-01-2023,19
+134,Philip Hall,60,Male, Gandhipuram,04-10-2021,42
+135,Rebecca Hughes,40,Female, Saibaba Colony,03-10-2022,49
+136,Warren Schultz,48,Male, Peelamedu,24-06-2021,51
+137,James Matthews,70,Female, Race Course,23-05-2024,8
+138,Robert Reed,27,Male, Saravanampatti,08-04-2024,99
+139,Jessica Hall,46,Male, Singanallur,03-05-2021,49
+140,Mitchell Wilson,28,Female, Vadavalli,18-12-2020,55
+141,Mr. Daniel Martin,60,Male, Ramanathapuram,01-02-2021,9
+142,Candace Soto,25,Female, Ukkadam,13-03-2022,7
+143,Kellie Sullivan,20,Female, Thudiyalur,23-09-2020,14
+144,Lawrence Ruiz,36,Male, RS Puram,19-03-2021,3
+145,Samantha White,40,Male, Gandhipuram,09-11-2023,62
+146,Andrea Gray,44,Female, Saibaba Colony,12-06-2024,17
+147,Kathy Barnes,61,Male, Peelamedu,18-01-2024,8
+148,Linda Rich,52,Male, Race Course,04-01-2020,24
+149,Patricia Banks,47,Male, Saravanampatti,04-07-2024,71
+150,Todd Olson,64,Male, Singanallur,30-10-2020,72
+151,David Cannon,51,Male, Vadavalli,23-06-2023,76
+152,Aaron Manning,36,Male, Ramanathapuram,23-01-2020,46
+153,Daniel Brock,69,Female, Ukkadam,16-08-2023,8
+154,Dawn Wyatt,33,Female, Thudiyalur,19-05-2023,87
+155,Jennifer Bowers,58,Female, RS Puram,11-02-2024,32
+156,Eric Cooper,18,Female, Gandhipuram,14-12-2021,34
+157,Michael Martin,23,Male, Saibaba Colony,17-11-2022,1
+158,Lisa Cohen,36,Female, Peelamedu,10-10-2020,9
+159,Kaitlyn Burke,70,Male, Race Course,05-09-2020,48
+160,Misty Arias,35,Male, Saravanampatti,09-06-2022,43
+161,Linda Bautista,21,Male, Singanallur,03-02-2020,13
+162,Matthew Lara,30,Female, Vadavalli,21-05-2024,48
+163,Lisa Craig,68,Male, Ramanathapuram,04-05-2021,31
+164,Donald Ross,19,Female, Ukkadam,27-05-2024,34
+165,Michael Calhoun,61,Female, Thudiyalur,17-12-2022,67
+166,Robert Perez,55,Female, RS Puram,15-01-2020,60
+167,Jason Rodriguez,37,Female, Gandhipuram,13-05-2024,33
+168,Sherri Li,51,Male, Saibaba Colony,11-02-2024,67
+169,Nina Ali,23,Male, Peelamedu,25-03-2020,12
+170,Mr. James Kramer,52,Female, Race Course,07-09-2022,12
+171,Harry Nichols,68,Female, Saravanampatti,24-05-2023,76
+172,Samantha Jones,63,Male, Singanallur,10-11-2021,54
+173,Debra Valentine,51,Female, Vadavalli,30-12-2021,28
+174,Shelley Clark,21,Male, Ramanathapuram,11-01-2023,86
+175,Brian Mora,64,Male, Ukkadam,11-05-2020,47
+176,Jacqueline Stewart,28,Female, Thudiyalur,20-05-2022,74
+177,Paul Anderson,39,Female, RS Puram,11-04-2020,31
+178,Jennifer Parks,69,Female, Gandhipuram,29-05-2024,64
+179,Michael Smith,32,Female, Saibaba Colony,08-10-2022,98
+180,Scott Lopez,64,Male, Peelamedu,01-12-2022,56
+181,Jonathan Clark,42,Male, Race Course,18-05-2022,66
+182,Kenneth Krause,20,Male, Saravanampatti,18-04-2022,46
+183,Kristi Chase,49,Female, Singanallur,09-04-2021,22
+184,Adam Fisher,29,Female, Vadavalli,17-07-2024,59
+185,Rachel Evans,70,Male, Ramanathapuram,05-07-2020,23
+186,David Combs,26,Female, Ukkadam,26-01-2023,14
+187,Justin Patrick,36,Female, Thudiyalur,26-12-2022,64
+188,Tracey Gonzalez,56,Male, RS Puram,07-10-2022,76
+189,Katherine Doyle,54,Male, Gandhipuram,26-03-2021,92
+190,Margaret Mcfarland,48,Male, Saibaba Colony,11-06-2023,97
+191,Andrea Martin,30,Male, Peelamedu,24-06-2022,65
+192,Lisa Foster,26,Female, Race Course,06-06-2024,99
+193,Jennifer White,18,Male, Saravanampatti,05-09-2020,72
+194,James Davis,29,Female, Singanallur,18-05-2023,17
+195,Whitney Garcia,50,Male, Vadavalli,26-04-2023,37
+196,David Mitchell,69,Female, Ramanathapuram,14-06-2021,93
+197,Matthew Dalton,23,Male, Ukkadam,26-04-2022,8
+198,Brandy Fry,51,Female, Thudiyalur,13-09-2023,86
+199,Margaret Collins,38,Male, RS Puram,05-10-2020,20
+200,Jacob Green,21,Female, Gandhipuram,27-02-2021,96
