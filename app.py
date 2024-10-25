@@ -113,29 +113,27 @@ def dashboard_layout():
 import streamlit as st
 
 def run_app():
-    add_custom_css()  # Inject custom CSS
+    add_custom_css()  # Inject custom CSS for styling
 
+    # Initialize session state variables if they don't exist
     if 'logged_in' not in st.session_state:
-        st.session_state.logged_in = False  # Initialize logged_in state
+        st.session_state.logged_in = False
 
-    # Set the default module to Sales
     if 'current_page' not in st.session_state:
-        st.session_state.current_page = "Sales"  # Set default page to Sales
+        st.session_state.current_page = "Sales"  # Default to the Sales module
 
-    # Handle query params for rerun
+    # Handle query params for rerun and logout
     query_params = st.experimental_get_query_params()
     if "rerun" in query_params:
         st.session_state.logged_in = query_params.get("rerun", ["False"])[0] == "True"
-
     if "logout" in query_params:
         st.session_state.logged_in = query_params.get("logout", ["True"])[0] == "False"
 
-    # Check login state
+    # Check login state and display the appropriate page
     if not st.session_state.logged_in:
-        login_page()  # Show login page
+        login_page()  # Show login page if not logged in
     else:
-        # Render dashboard layout
-        dashboard_layout()  # Go to the dashboard page
+        dashboard_layout() 
 
 
 
