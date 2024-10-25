@@ -56,16 +56,16 @@ def login_page():
     username = st.text_input("Username", "")
     password = st.text_input("Password", "", type="password")
 
-    # Check if the login button is pressed
+    #Check if the login button is pressed
     if st.button("Login"):
         if username == "admin" and password == "admin":
             st.session_state.logged_in = True  # Set a session state variable
             st.success("Login successful! Redirecting...")
-    
-            # Workaround: Use `st.experimental_set_query_params` to trigger a rerun
-            st.experimental_set_query_params(rerun=str(st.session_state.logged_in))
+            
+            st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
         else:
             st.error("Invalid username or password")
+
 
 # Use the `st.session_state` variable to conditionally render the logged-in content
 if st.session_state.get("logged_in", False):
