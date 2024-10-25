@@ -64,7 +64,7 @@ def login_page():
         else:
             st.error("Invalid username or password")
 
-    
+# Function for dashboard layout with navigation
 def dashboard_layout():
     st.sidebar.title("DSS Navigation")
 
@@ -104,13 +104,14 @@ def dashboard_layout():
     st.sidebar.markdown("### © 2024 Supermarket DSS Application")
     st.sidebar.markdown("For support, contact: support@example.com")
 
+
 def run_app():
     add_custom_css()  # Inject custom CSS
 
     if 'logged_in' not in st.session_state:
         st.session_state.logged_in = False  # Initialize logged_in state
 
-    # Set the default module to Sales
+    # Set the default module to Sales if logged in
     if 'current_page' not in st.session_state:
         st.session_state.current_page = "Sales"  # Set default page to Sales
 
@@ -120,8 +121,6 @@ def run_app():
     else:
         # Render dashboard layout
         dashboard_layout()  # Get the selected module
-
-
 
 
 def campaign_module():
