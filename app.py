@@ -62,7 +62,7 @@ def login_page():
             st.session_state.logged_in = True  # Set a session state variable
             st.success("Login successful! Redirecting...")
             
-            st.experimental_set_query_params(rerun=str(st.session_state.logged_in))
+            st.query_params(rerun=str(st.session_state.logged_in))
         else:
             st.error("Invalid username or password")
 
@@ -103,7 +103,7 @@ def dashboard_layout():
     # Add a logout button in the sidebar
     if st.sidebar.button("Logout"):
         st.session_state.logged_in = False
-        st.experimental_set_query_params(logout=str(st.session_state.logged_in))
+        st.query_params(logout=str(st.session_state.logged_in))
         
 
     # Footer
