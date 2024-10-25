@@ -110,6 +110,7 @@ def dashboard_layout():
     st.sidebar.markdown("---")
     st.sidebar.markdown("### © 2024 Supermarket DSS Application")
     st.sidebar.markdown("For support, contact: support@example.com")
+import streamlit as st
 
 def run_app():
     add_custom_css()  # Inject custom CSS
@@ -121,12 +122,18 @@ def run_app():
     if 'current_page' not in st.session_state:
         st.session_state.current_page = "Sales"  # Set default page to Sales
 
+    # Handle query params for rerun
+    query_params = st.experimental_get_query_params()
+    if "rerun" in query_params:
+        st.session_state.logged_in = query_params.get("rerun", ["False"])[0] == "True"
+
     # Check login state
     if not st.session_state.logged_in:
         login_page()  # Show login page
     else:
         # Render dashboard layout
-        dashboard_layout()  # Get the selected module
+        dashboard_layout()  # Go to the dashboard page
+
 
 
 
