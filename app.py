@@ -61,7 +61,7 @@ def login_page():
         if username == "admin" and password == "admin":
             st.session_state.logged_in = True  # Set a session state variable
             st.success("Login successful! Redirecting...")
-            st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
+            #st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
         else:
             st.error("Invalid username or password")
 
@@ -98,7 +98,7 @@ def dashboard_layout():
     # Add a logout button in the sidebar
     if st.sidebar.button("Logout"):
         st.session_state.logged_in = False
-        st.experimental_rerun()
+        #st.experimental_rerun()
         
 
     # Footer
