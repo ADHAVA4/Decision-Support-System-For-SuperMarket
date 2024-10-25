@@ -103,7 +103,7 @@ def dashboard_layout():
     # Add a logout button in the sidebar
     if st.sidebar.button("Logout"):
         st.session_state.logged_in = False
-        st.experimental_rerun()
+        st.experimental_set_query_params(logout=str(st.session_state.logged_in))
         
 
     # Footer
@@ -126,6 +126,9 @@ def run_app():
     query_params = st.experimental_get_query_params()
     if "rerun" in query_params:
         st.session_state.logged_in = query_params.get("rerun", ["False"])[0] == "True"
+
+    if "logout" in query_params:
+        st.session_state.logged_in = query_params.get("logout", ["True"])[0] == "False"
 
     # Check login state
     if not st.session_state.logged_in:
