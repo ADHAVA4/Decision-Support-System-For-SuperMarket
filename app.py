@@ -48,8 +48,7 @@ def login_page():
     # Add the application title and description in the login page itself
     st.markdown('<div class="header-section"><h1>Supermarket DSS Application</h1></div>', unsafe_allow_html=True)
     st.markdown('<div class="header-section"><h3>Welcome to the Decision Support System for Supermarkets</h3></div>', unsafe_allow_html=True)
-  
-
+    
     st.subheader("Please enter your credentials")
 
     # Input fields for username and password
@@ -60,13 +59,12 @@ def login_page():
     if st.button("Login"):
         if username == "admin" and password == "admin":
             st.session_state.logged_in = True  # Set a session state variable
-            st.success("Login successful! Redirecting...")
-            st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
+            st.session_state.current_page = "Sales"  # Redirect to default module
+            st.success("Login successful! Welcome to the dashboard.")
         else:
             st.error("Invalid username or password")
 
     
-# Function for dashboard layout with navigation
 def dashboard_layout():
     st.sidebar.title("DSS Navigation")
 
@@ -98,8 +96,8 @@ def dashboard_layout():
     # Add a logout button in the sidebar
     if st.sidebar.button("Logout"):
         st.session_state.logged_in = False
-        st.experimental_rerun()
-        
+        st.session_state.current_page = "Login"
+        st.info("You have been logged out. Please log in again.")
 
     # Footer
     st.sidebar.markdown("---")
