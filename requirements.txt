@@ -87,8 +87,6 @@ mlxtend==0.23.1
 msgpack==1.0.4
 multidict==5.2.0
 multitasking==0.0.10
-mysqlclient==2.1.1
-networkx==2.6.3
 nltk==3.8.1
 numpy==1.22.3
 numpy-financial==1.0.0
