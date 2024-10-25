@@ -62,18 +62,12 @@ def login_page():
             st.session_state.logged_in = True  # Set a session state variable
             st.success("Login successful! Redirecting...")
             
-            st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
+            st.experimental_set_query_params(rerun=str(st.session_state.logged_in))
         else:
             st.error("Invalid username or password")
 
 
-# Use the `st.session_state` variable to conditionally render the logged-in content
-if st.session_state.get("logged_in", False):
-    st.write("Welcome, Admin! You are now logged in.")
-    # Display the main content of the app here
-else:
-    st.write("Please log in to continue.")
-    # Render the login form
+
 
 
     
