@@ -76,7 +76,6 @@ Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 libclang==15.0.6.1
 locket==1.0.0
-lxml==4.8.0
 magic-filter==1.0.9
 Markdown==3.4.1
 markdown-it-py==2.2.0
