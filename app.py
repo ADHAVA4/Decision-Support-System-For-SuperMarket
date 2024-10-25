@@ -99,6 +99,7 @@ def dashboard_layout():
         st.session_state.logged_in = False
         st.session_state.current_page = "Login"
         st.info("You have been logged out. Please log in again.")
+        login_page()
 
     # Footer
     st.sidebar.markdown("---")
