@@ -61,9 +61,8 @@ def login_page():
         if username == "admin" and password == "admin":
             st.session_state.logged_in = True  # Set a session state variable
             st.success("Login successful! Redirecting...")
-            if 'rerun' not in st.session_state:
-                st.session_state['rerun'] = False
-            #st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
+            
+            st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
         else:
             st.error("Invalid username or password")
 
