@@ -123,11 +123,11 @@ def run_app():
         st.session_state.current_page = "Sales"  # Default to the Sales module
 
     # Handle query params for rerun and logout
-    query_params = st.experimental_get_query_params()
+    query_params = st.query_params()
     if "rerun" in query_params:
         st.session_state.logged_in = query_params.get("rerun", ["False"])[0] == "True"
     if "logout" in query_params:
-        st.session_state.logged_in = query_params.get("logout", ["True"])[0] == "False"
+        st.session_state.logged_in = query_params.get("logout", ["False"])[0] == "True"
 
     # Check login state and display the appropriate page
     if not st.session_state.logged_in:
