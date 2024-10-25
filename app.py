@@ -57,14 +57,24 @@ def login_page():
     password = st.text_input("Password", "", type="password")
 
     # Check if the login button is pressed
-    if st.button("Login"):
-        if username == "admin" and password == "admin":
-            st.session_state.logged_in = True  # Set a session state variable
-            st.success("Login successful! Redirecting...")
-            
-            st.experimental_rerun()  # Rerun the app to immediately show the logged-in view
-        else:
-            st.error("Invalid username or password")
+if st.button("Login"):
+    if username == "admin" and password == "admin":
+        st.session_state.logged_in = True  # Set a session state variable
+        st.success("Login successful! Redirecting...")
+
+        # Workaround: Use `st.experimental_set_query_params` to trigger a rerun
+        st.experimental_set_query_params(rerun=str(st.session_state.logged_in))
+    else:
+        st.error("Invalid username or password")
+
+# Use the `st.session_state` variable to conditionally render the logged-in content
+if st.session_state.get("logged_in", False):
+    st.write("Welcome, Admin! You are now logged in.")
+    # Display the main content of the app here
+else:
+    st.write("Please log in to continue.")
+    # Render the login form
+
 
     
 # Function for dashboard layout with navigation
