@@ -61,7 +61,7 @@ def login_page():
             st.session_state.logged_in = True  # Set a session state variable
             st.session_state.current_page = "Sales"  # Redirect to default module
             st.success("Login successful! Welcome to the dashboard.")
-            sales_module()
+            dashboard_layout()
         else:
             st.error("Invalid username or password")
 
